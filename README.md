@@ -1,7 +1,7 @@
 # weatherpython
 weather app in python using modules bs4 and requests
 
-##What packages to use in python
+## What packages to use in python
 
 In order to install the needed packages inn python. Open your favourite terminal and enter the following 
 ```
